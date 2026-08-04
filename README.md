@@ -1,2 +1,2 @@
 # algoritmo-PA
-aulas do M, PA E ALGORITMOS
+aulas da leticia, PA E ALGORITMOS.
